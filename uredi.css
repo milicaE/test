@@ -1,0 +1,86 @@
+#stranica
+{
+    width:80%;
+    height:700px;
+    margin:0 auto;
+}
+
+#gornji
+{
+    width:80%;
+    height:60px;
+    background-color:steelblue;
+    color:white;
+    margin:0 auto;
+    padding-left: 25px;
+  
+    
+}
+#naslov
+{
+    margin:0;
+    padding:10px;
+}
+#horizontalni
+{
+    width:80%;
+    height:40px;
+    background-color: #333A6C;
+    margin:0 auto;
+    padding-left:25px;
+}
+#dugme
+{
+    list-style-type: none;
+    padding:0;
+    margin:0;
+    display:flex;
+    text-decoration: none;
+}
+li
+{
+    background-color:#4C57A2;
+    border-right:2px solid white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.link
+{
+    text-decoration: none;
+    color:white;
+}
+#glavni
+{
+    width:80%;
+    height:560px;
+}
+#donji
+{
+    width:80%;
+    height:40px;
+    background-color:silver;
+    margin:0 auto;
+    padding-left:25px;
+}
+h3
+{
+    text-align:center;
+    color:#979696;
+    padding:10px 20px;
+}
+#forma
+{
+    margin:0 auto;
+    padding-left:150px;
+    padding-top:30px;
+    font-size:20pt;
+}
+p
+{
+    margin:0 auto;
+    padding-left:150px;
+    padding-top:30px;
+    font-size:20pt; 
+}
